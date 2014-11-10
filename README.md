@@ -4,3 +4,4 @@ gulp-browserify-jasmine
 #  *npm install* in the command line
 #  *gulp* to run browserify and preprocessing task
 #  *gulp compress* to minify assets
+#  *gulp specs* to run the unit tests

@@ -1,4 +1,4 @@
-var testFunc = require('../bundles/unit-tests.js'),
+var testFunc = require('../bundles/tests/basic.js'),
 	mike = new testFunc;
 
 	// our "unit" test
