@@ -1,4 +1,4 @@
-var log = require('./log');
+var log = require('./log'),
 	Tests = require('./basic'),
 	mike = new Tests;
 
