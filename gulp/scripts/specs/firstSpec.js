@@ -4,6 +4,6 @@ var testFunc = require('../bundles/tests/basic.js'),
 	// our "unit" test
 	describe('the test function', function () {
 			it('returns a boolean', function () {
-				expect(mike.aFunc(0)).toEqual(true);
+				expect(mike.aFunc(1)).toEqual(true);
 			});
 	});
